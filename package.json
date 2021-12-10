@@ -1,6 +1,6 @@
 {
   "name": "angelscripts-stem-cell-release",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "[organic-stem-skeleton v3](https://github.com/node-organic/organic-stem-skeleton) based release helpers:",
   "main": "index.js",
   "scripts": {
